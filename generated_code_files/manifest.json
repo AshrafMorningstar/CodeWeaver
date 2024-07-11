@@ -1,0 +1,2702 @@
+[
+  {
+    "id": 1,
+    "language": "JavaScript",
+    "category": "Web",
+    "program_type": "CLI Calculator",
+    "filename": "Web/JavaScript/001_cli_calculator.js",
+    "run_cmd": "node 001_cli_calculator.js",
+    "lines": 109
+  },
+  {
+    "id": 2,
+    "language": "TypeScript",
+    "category": "Web",
+    "program_type": "TODO Manager",
+    "filename": "Web/TypeScript/002_todo_manager.ts",
+    "run_cmd": "npx ts-node 002_todo_manager.ts",
+    "lines": 109
+  },
+  {
+    "id": 3,
+    "language": "HTML",
+    "category": "Web",
+    "program_type": "File Processor",
+    "filename": "Web/HTML/003_file_processor.html",
+    "run_cmd": "# Open in browser",
+    "lines": 109
+  },
+  {
+    "id": 4,
+    "language": "CSS",
+    "category": "Web",
+    "program_type": "Web Server or API Stub",
+    "filename": "Web/CSS/004_web_server_or_api_stub.css",
+    "run_cmd": "# Styling file",
+    "lines": 109
+  },
+  {
+    "id": 5,
+    "language": "PHP",
+    "category": "Web",
+    "program_type": "Number Guessing Game",
+    "filename": "Web/PHP/005_number_guessing_game.php",
+    "run_cmd": "php 005_number_guessing_game.php",
+    "lines": 109
+  },
+  {
+    "id": 6,
+    "language": "XML",
+    "category": "Web",
+    "program_type": "Data Analyzer / Sorter",
+    "filename": "Web/XML/006_data_analyzer___sorter.xml",
+    "run_cmd": "# Data file",
+    "lines": 109
+  },
+  {
+    "id": 7,
+    "language": "JSON",
+    "category": "Web",
+    "program_type": "Unit Converter",
+    "filename": "Web/JSON/007_unit_converter.json",
+    "run_cmd": "# Data file",
+    "lines": 109
+  },
+  {
+    "id": 8,
+    "language": "YAML",
+    "category": "Web",
+    "program_type": "Text Parser / Formatter",
+    "filename": "Web/YAML/008_text_parser___formatter.yaml",
+    "run_cmd": "# Data file",
+    "lines": 109
+  },
+  {
+    "id": 9,
+    "language": "Python",
+    "category": "Mainstream",
+    "program_type": "Simple Encryption/Decryption",
+    "filename": "Mainstream/Python/009_simple_encryption_decryption.py",
+    "run_cmd": "python 009_simple_encryption_decryption.py",
+    "lines": 109
+  },
+  {
+    "id": 10,
+    "language": "Java",
+    "category": "Mainstream",
+    "program_type": "Pathfinding Algorithm (e.g. Dijkstra)",
+    "filename": "Mainstream/Java/010_pathfinding_algorithm_(e.g._dijkstra).java",
+    "run_cmd": "javac 010_pathfinding_algorithm_(e.g._dijkstra).java && java 010_pathfinding_algorithm_(e.g._dijkstra)",
+    "lines": 109
+  },
+  {
+    "id": 11,
+    "language": "C#",
+    "category": "Mainstream",
+    "program_type": "Matrix Multiplication",
+    "filename": "Mainstream/C#/011_matrix_multiplication.cs",
+    "run_cmd": "csc 011_matrix_multiplication.cs && ./011_matrix_multiplication.exe",
+    "lines": 109
+  },
+  {
+    "id": 12,
+    "language": "Go",
+    "category": "Mainstream",
+    "program_type": "Inventory System",
+    "filename": "Mainstream/Go/012_inventory_system.go",
+    "run_cmd": "go run 012_inventory_system.go",
+    "lines": 109
+  },
+  {
+    "id": 13,
+    "language": "Ruby",
+    "category": "Mainstream",
+    "program_type": "Student Grade Management",
+    "filename": "Mainstream/Ruby/013_student_grade_management.rb",
+    "run_cmd": "ruby 013_student_grade_management.rb",
+    "lines": 109
+  },
+  {
+    "id": 14,
+    "language": "Swift",
+    "category": "Mainstream",
+    "program_type": "Bank Account System",
+    "filename": "Mainstream/Swift/014_bank_account_system.swift",
+    "run_cmd": "swift 014_bank_account_system.swift",
+    "lines": 109
+  },
+  {
+    "id": 15,
+    "language": "Kotlin",
+    "category": "Mainstream",
+    "program_type": "Library Management Mockup",
+    "filename": "Mainstream/Kotlin/015_library_management_mockup.kt",
+    "run_cmd": "kotlinc 015_library_management_mockup.kt -include-runtime -d 015_library_management_mockup.jar && java -jar 015_library_management_mockup.jar",
+    "lines": 109
+  },
+  {
+    "id": 16,
+    "language": "Dart",
+    "category": "Mainstream",
+    "program_type": "CLI Calculator",
+    "filename": "Mainstream/Dart/016_cli_calculator.dart",
+    "run_cmd": "dart 016_cli_calculator.dart",
+    "lines": 109
+  },
+  {
+    "id": 17,
+    "language": "C",
+    "category": "Systems",
+    "program_type": "TODO Manager",
+    "filename": "Systems/C/017_todo_manager.c",
+    "run_cmd": "gcc 017_todo_manager.c -o 017_todo_manager && ./017_todo_manager",
+    "lines": 109
+  },
+  {
+    "id": 18,
+    "language": "C++",
+    "category": "Systems",
+    "program_type": "File Processor",
+    "filename": "Systems/C++/018_file_processor.cpp",
+    "run_cmd": "g++ 018_file_processor.cpp -o 018_file_processor && ./018_file_processor",
+    "lines": 109
+  },
+  {
+    "id": 19,
+    "language": "Rust",
+    "category": "Systems",
+    "program_type": "Web Server or API Stub",
+    "filename": "Systems/Rust/019_web_server_or_api_stub.rs",
+    "run_cmd": "rustc 019_web_server_or_api_stub.rs && ./019_web_server_or_api_stub",
+    "lines": 109
+  },
+  {
+    "id": 20,
+    "language": "Assembly (x86)",
+    "category": "Systems",
+    "program_type": "Number Guessing Game",
+    "filename": "Systems/Assembly (x86)/020_number_guessing_game.asm",
+    "run_cmd": "nasm -f elf64 020_number_guessing_game.asm && ld 020_number_guessing_game.o -o 020_number_guessing_game && ./020_number_guessing_game",
+    "lines": 109
+  },
+  {
+    "id": 21,
+    "language": "Zig",
+    "category": "Systems",
+    "program_type": "Data Analyzer / Sorter",
+    "filename": "Systems/Zig/021_data_analyzer___sorter.zig",
+    "run_cmd": "zig run 021_data_analyzer___sorter.zig",
+    "lines": 109
+  },
+  {
+    "id": 22,
+    "language": "Nim",
+    "category": "Systems",
+    "program_type": "Unit Converter",
+    "filename": "Systems/Nim/022_unit_converter.nim",
+    "run_cmd": "nim c -r 022_unit_converter.nim",
+    "lines": 109
+  },
+  {
+    "id": 23,
+    "language": "D",
+    "category": "Systems",
+    "program_type": "Text Parser / Formatter",
+    "filename": "Systems/D/023_text_parser___formatter.d",
+    "run_cmd": "dmd -run 023_text_parser___formatter.d",
+    "lines": 109
+  },
+  {
+    "id": 24,
+    "language": "V",
+    "category": "Systems",
+    "program_type": "Simple Encryption/Decryption",
+    "filename": "Systems/V/024_simple_encryption_decryption.v",
+    "run_cmd": "v run 024_simple_encryption_decryption.v",
+    "lines": 109
+  },
+  {
+    "id": 25,
+    "language": "Ada",
+    "category": "Systems",
+    "program_type": "Pathfinding Algorithm (e.g. Dijkstra)",
+    "filename": "Systems/Ada/025_pathfinding_algorithm_(e.g._dijkstra).adb",
+    "run_cmd": "gnatmake 025_pathfinding_algorithm_(e.g._dijkstra).adb && ./025_pathfinding_algorithm_(e.g._dijkstra)",
+    "lines": 109
+  },
+  {
+    "id": 26,
+    "language": "Fortran",
+    "category": "Systems",
+    "program_type": "Matrix Multiplication",
+    "filename": "Systems/Fortran/026_matrix_multiplication.f90",
+    "run_cmd": "gfortran 026_matrix_multiplication.f90 -o 026_matrix_multiplication && ./026_matrix_multiplication",
+    "lines": 109
+  },
+  {
+    "id": 27,
+    "language": "Cobol",
+    "category": "Systems",
+    "program_type": "Inventory System",
+    "filename": "Systems/Cobol/027_inventory_system.cbl",
+    "run_cmd": "cobc -x 027_inventory_system.cbl && ./027_inventory_system",
+    "lines": 109
+  },
+  {
+    "id": 28,
+    "language": "Pascal",
+    "category": "Systems",
+    "program_type": "Student Grade Management",
+    "filename": "Systems/Pascal/028_student_grade_management.pas",
+    "run_cmd": "fpc 028_student_grade_management.pas && ./028_student_grade_management",
+    "lines": 109
+  },
+  {
+    "id": 29,
+    "language": "R",
+    "category": "Data_Science",
+    "program_type": "Bank Account System",
+    "filename": "Data_Science/R/029_bank_account_system.R",
+    "run_cmd": "Rscript 029_bank_account_system.R",
+    "lines": 109
+  },
+  {
+    "id": 30,
+    "language": "Julia",
+    "category": "Data_Science",
+    "program_type": "Library Management Mockup",
+    "filename": "Data_Science/Julia/030_library_management_mockup.jl",
+    "run_cmd": "julia 030_library_management_mockup.jl",
+    "lines": 109
+  },
+  {
+    "id": 31,
+    "language": "Matlab",
+    "category": "Data_Science",
+    "program_type": "CLI Calculator",
+    "filename": "Data_Science/Matlab/031_cli_calculator.m",
+    "run_cmd": "matlab -batch \"run('031_cli_calculator.m')\"",
+    "lines": 109
+  },
+  {
+    "id": 32,
+    "language": "SAS",
+    "category": "Data_Science",
+    "program_type": "TODO Manager",
+    "filename": "Data_Science/SAS/032_todo_manager.sas",
+    "run_cmd": "sas 032_todo_manager.sas",
+    "lines": 109
+  },
+  {
+    "id": 33,
+    "language": "SQL",
+    "category": "Data_Science",
+    "program_type": "File Processor",
+    "filename": "Data_Science/SQL/033_file_processor.sql",
+    "run_cmd": "# SQL script",
+    "lines": 109
+  },
+  {
+    "id": 34,
+    "language": "Perl",
+    "category": "Scripting",
+    "program_type": "Web Server or API Stub",
+    "filename": "Scripting/Perl/034_web_server_or_api_stub.pl",
+    "run_cmd": "perl 034_web_server_or_api_stub.pl",
+    "lines": 109
+  },
+  {
+    "id": 35,
+    "language": "Lua",
+    "category": "Scripting",
+    "program_type": "Number Guessing Game",
+    "filename": "Scripting/Lua/035_number_guessing_game.lua",
+    "run_cmd": "lua 035_number_guessing_game.lua",
+    "lines": 109
+  },
+  {
+    "id": 36,
+    "language": "Shell",
+    "category": "Scripting",
+    "program_type": "Data Analyzer / Sorter",
+    "filename": "Scripting/Shell/036_data_analyzer___sorter.sh",
+    "run_cmd": "bash 036_data_analyzer___sorter.sh",
+    "lines": 109
+  },
+  {
+    "id": 37,
+    "language": "PowerShell",
+    "category": "Scripting",
+    "program_type": "Unit Converter",
+    "filename": "Scripting/PowerShell/037_unit_converter.ps1",
+    "run_cmd": "powershell -ExecutionPolicy Bypass -File 037_unit_converter.ps1",
+    "lines": 109
+  },
+  {
+    "id": 38,
+    "language": "Batch",
+    "category": "Scripting",
+    "program_type": "Text Parser / Formatter",
+    "filename": "Scripting/Batch/038_text_parser___formatter.bat",
+    "run_cmd": "038_text_parser___formatter.bat",
+    "lines": 109
+  },
+  {
+    "id": 39,
+    "language": "Tcl",
+    "category": "Scripting",
+    "program_type": "Simple Encryption/Decryption",
+    "filename": "Scripting/Tcl/039_simple_encryption_decryption.tcl",
+    "run_cmd": "tclsh 039_simple_encryption_decryption.tcl",
+    "lines": 109
+  },
+  {
+    "id": 40,
+    "language": "VBScript",
+    "category": "Scripting",
+    "program_type": "Pathfinding Algorithm (e.g. Dijkstra)",
+    "filename": "Scripting/VBScript/040_pathfinding_algorithm_(e.g._dijkstra).vbs",
+    "run_cmd": "cscript 040_pathfinding_algorithm_(e.g._dijkstra).vbs",
+    "lines": 109
+  },
+  {
+    "id": 41,
+    "language": "Groovy",
+    "category": "Scripting",
+    "program_type": "Matrix Multiplication",
+    "filename": "Scripting/Groovy/041_matrix_multiplication.groovy",
+    "run_cmd": "groovy 041_matrix_multiplication.groovy",
+    "lines": 109
+  },
+  {
+    "id": 42,
+    "language": "CoffeeScript",
+    "category": "Scripting",
+    "program_type": "Inventory System",
+    "filename": "Scripting/CoffeeScript/042_inventory_system.coffee",
+    "run_cmd": "coffee 042_inventory_system.coffee",
+    "lines": 109
+  },
+  {
+    "id": 43,
+    "language": "Haskell",
+    "category": "Functional",
+    "program_type": "Student Grade Management",
+    "filename": "Functional/Haskell/043_student_grade_management.hs",
+    "run_cmd": "runhaskell 043_student_grade_management.hs",
+    "lines": 109
+  },
+  {
+    "id": 44,
+    "language": "Scala",
+    "category": "Functional",
+    "program_type": "Bank Account System",
+    "filename": "Functional/Scala/044_bank_account_system.scala",
+    "run_cmd": "scala 044_bank_account_system.scala",
+    "lines": 109
+  },
+  {
+    "id": 45,
+    "language": "Elixir",
+    "category": "Functional",
+    "program_type": "Library Management Mockup",
+    "filename": "Functional/Elixir/045_library_management_mockup.exs",
+    "run_cmd": "elixir 045_library_management_mockup.exs",
+    "lines": 109
+  },
+  {
+    "id": 46,
+    "language": "Clojure",
+    "category": "Functional",
+    "program_type": "CLI Calculator",
+    "filename": "Functional/Clojure/046_cli_calculator.clj",
+    "run_cmd": "clojure 046_cli_calculator.clj",
+    "lines": 109
+  },
+  {
+    "id": 47,
+    "language": "F#",
+    "category": "Functional",
+    "program_type": "TODO Manager",
+    "filename": "Functional/F#/047_todo_manager.fsx",
+    "run_cmd": "dotnet fsi 047_todo_manager.fsx",
+    "lines": 109
+  },
+  {
+    "id": 48,
+    "language": "OCaml",
+    "category": "Functional",
+    "program_type": "File Processor",
+    "filename": "Functional/OCaml/048_file_processor.ml",
+    "run_cmd": "ocaml 048_file_processor.ml",
+    "lines": 109
+  },
+  {
+    "id": 49,
+    "language": "Scheme",
+    "category": "Functional",
+    "program_type": "Web Server or API Stub",
+    "filename": "Functional/Scheme/049_web_server_or_api_stub.scm",
+    "run_cmd": "scheme < 049_web_server_or_api_stub.scm",
+    "lines": 109
+  },
+  {
+    "id": 50,
+    "language": "Erlang",
+    "category": "Functional",
+    "program_type": "Number Guessing Game",
+    "filename": "Functional/Erlang/050_number_guessing_game.erl",
+    "run_cmd": "escript 050_number_guessing_game.erl",
+    "lines": 109
+  },
+  {
+    "id": 51,
+    "language": "Racket",
+    "category": "Functional",
+    "program_type": "Data Analyzer / Sorter",
+    "filename": "Functional/Racket/051_data_analyzer___sorter.rkt",
+    "run_cmd": "racket 051_data_analyzer___sorter.rkt",
+    "lines": 109
+  },
+  {
+    "id": 52,
+    "language": "Common Lisp",
+    "category": "Functional",
+    "program_type": "Unit Converter",
+    "filename": "Functional/Common Lisp/052_unit_converter.lisp",
+    "run_cmd": "sbcl --script 052_unit_converter.lisp",
+    "lines": 109
+  },
+  {
+    "id": 53,
+    "language": "Verilog",
+    "category": "Hardware",
+    "program_type": "Text Parser / Formatter",
+    "filename": "Hardware/Verilog/053_text_parser___formatter.v",
+    "run_cmd": "iverilog -o 053_text_parser___formatter 053_text_parser___formatter.v && vvp 053_text_parser___formatter",
+    "lines": 109
+  },
+  {
+    "id": 54,
+    "language": "VHDL",
+    "category": "Hardware",
+    "program_type": "Simple Encryption/Decryption",
+    "filename": "Hardware/VHDL/054_simple_encryption_decryption.vhd",
+    "run_cmd": "ghdl -a 054_simple_encryption_decryption.vhd && ghdl -e 054_simple_encryption_decryption && ghdl -r 054_simple_encryption_decryption",
+    "lines": 109
+  },
+  {
+    "id": 55,
+    "language": "Haxe",
+    "category": "Other",
+    "program_type": "Pathfinding Algorithm (e.g. Dijkstra)",
+    "filename": "Other/Haxe/055_pathfinding_algorithm_(e.g._dijkstra).hx",
+    "run_cmd": "haxe -main 055_pathfinding_algorithm_(e.g._dijkstra) --interp",
+    "lines": 109
+  },
+  {
+    "id": 56,
+    "language": "Smalltalk",
+    "category": "Other",
+    "program_type": "Matrix Multiplication",
+    "filename": "Other/Smalltalk/056_matrix_multiplication.st",
+    "run_cmd": "gst 056_matrix_multiplication.st",
+    "lines": 109
+  },
+  {
+    "id": 57,
+    "language": "Forth",
+    "category": "Other",
+    "program_type": "Inventory System",
+    "filename": "Other/Forth/057_inventory_system.fs",
+    "run_cmd": "gforth 057_inventory_system.fs -e bye",
+    "lines": 109
+  },
+  {
+    "id": 58,
+    "language": "Prolog",
+    "category": "Other",
+    "program_type": "Student Grade Management",
+    "filename": "Other/Prolog/058_student_grade_management.pl",
+    "run_cmd": "swipl -s 058_student_grade_management.pl",
+    "lines": 109
+  },
+  {
+    "id": 59,
+    "language": "JavaScript",
+    "category": "Web",
+    "program_type": "Bank Account System",
+    "filename": "Web/JavaScript/059_bank_account_system.js",
+    "run_cmd": "node 059_bank_account_system.js",
+    "lines": 109
+  },
+  {
+    "id": 60,
+    "language": "TypeScript",
+    "category": "Web",
+    "program_type": "Library Management Mockup",
+    "filename": "Web/TypeScript/060_library_management_mockup.ts",
+    "run_cmd": "npx ts-node 060_library_management_mockup.ts",
+    "lines": 109
+  },
+  {
+    "id": 61,
+    "language": "HTML",
+    "category": "Web",
+    "program_type": "CLI Calculator",
+    "filename": "Web/HTML/061_cli_calculator.html",
+    "run_cmd": "# Open in browser",
+    "lines": 109
+  },
+  {
+    "id": 62,
+    "language": "CSS",
+    "category": "Web",
+    "program_type": "TODO Manager",
+    "filename": "Web/CSS/062_todo_manager.css",
+    "run_cmd": "# Styling file",
+    "lines": 109
+  },
+  {
+    "id": 63,
+    "language": "PHP",
+    "category": "Web",
+    "program_type": "File Processor",
+    "filename": "Web/PHP/063_file_processor.php",
+    "run_cmd": "php 063_file_processor.php",
+    "lines": 109
+  },
+  {
+    "id": 64,
+    "language": "XML",
+    "category": "Web",
+    "program_type": "Web Server or API Stub",
+    "filename": "Web/XML/064_web_server_or_api_stub.xml",
+    "run_cmd": "# Data file",
+    "lines": 109
+  },
+  {
+    "id": 65,
+    "language": "JSON",
+    "category": "Web",
+    "program_type": "Number Guessing Game",
+    "filename": "Web/JSON/065_number_guessing_game.json",
+    "run_cmd": "# Data file",
+    "lines": 109
+  },
+  {
+    "id": 66,
+    "language": "YAML",
+    "category": "Web",
+    "program_type": "Data Analyzer / Sorter",
+    "filename": "Web/YAML/066_data_analyzer___sorter.yaml",
+    "run_cmd": "# Data file",
+    "lines": 109
+  },
+  {
+    "id": 67,
+    "language": "Python",
+    "category": "Mainstream",
+    "program_type": "Unit Converter",
+    "filename": "Mainstream/Python/067_unit_converter.py",
+    "run_cmd": "python 067_unit_converter.py",
+    "lines": 109
+  },
+  {
+    "id": 68,
+    "language": "Java",
+    "category": "Mainstream",
+    "program_type": "Text Parser / Formatter",
+    "filename": "Mainstream/Java/068_text_parser___formatter.java",
+    "run_cmd": "javac 068_text_parser___formatter.java && java 068_text_parser___formatter",
+    "lines": 109
+  },
+  {
+    "id": 69,
+    "language": "C#",
+    "category": "Mainstream",
+    "program_type": "Simple Encryption/Decryption",
+    "filename": "Mainstream/C#/069_simple_encryption_decryption.cs",
+    "run_cmd": "csc 069_simple_encryption_decryption.cs && ./069_simple_encryption_decryption.exe",
+    "lines": 109
+  },
+  {
+    "id": 70,
+    "language": "Go",
+    "category": "Mainstream",
+    "program_type": "Pathfinding Algorithm (e.g. Dijkstra)",
+    "filename": "Mainstream/Go/070_pathfinding_algorithm_(e.g._dijkstra).go",
+    "run_cmd": "go run 070_pathfinding_algorithm_(e.g._dijkstra).go",
+    "lines": 109
+  },
+  {
+    "id": 71,
+    "language": "Ruby",
+    "category": "Mainstream",
+    "program_type": "Matrix Multiplication",
+    "filename": "Mainstream/Ruby/071_matrix_multiplication.rb",
+    "run_cmd": "ruby 071_matrix_multiplication.rb",
+    "lines": 109
+  },
+  {
+    "id": 72,
+    "language": "Swift",
+    "category": "Mainstream",
+    "program_type": "Inventory System",
+    "filename": "Mainstream/Swift/072_inventory_system.swift",
+    "run_cmd": "swift 072_inventory_system.swift",
+    "lines": 109
+  },
+  {
+    "id": 73,
+    "language": "Kotlin",
+    "category": "Mainstream",
+    "program_type": "Student Grade Management",
+    "filename": "Mainstream/Kotlin/073_student_grade_management.kt",
+    "run_cmd": "kotlinc 073_student_grade_management.kt -include-runtime -d 073_student_grade_management.jar && java -jar 073_student_grade_management.jar",
+    "lines": 109
+  },
+  {
+    "id": 74,
+    "language": "Dart",
+    "category": "Mainstream",
+    "program_type": "Bank Account System",
+    "filename": "Mainstream/Dart/074_bank_account_system.dart",
+    "run_cmd": "dart 074_bank_account_system.dart",
+    "lines": 109
+  },
+  {
+    "id": 75,
+    "language": "C",
+    "category": "Systems",
+    "program_type": "Library Management Mockup",
+    "filename": "Systems/C/075_library_management_mockup.c",
+    "run_cmd": "gcc 075_library_management_mockup.c -o 075_library_management_mockup && ./075_library_management_mockup",
+    "lines": 109
+  },
+  {
+    "id": 76,
+    "language": "C++",
+    "category": "Systems",
+    "program_type": "CLI Calculator",
+    "filename": "Systems/C++/076_cli_calculator.cpp",
+    "run_cmd": "g++ 076_cli_calculator.cpp -o 076_cli_calculator && ./076_cli_calculator",
+    "lines": 109
+  },
+  {
+    "id": 77,
+    "language": "Rust",
+    "category": "Systems",
+    "program_type": "TODO Manager",
+    "filename": "Systems/Rust/077_todo_manager.rs",
+    "run_cmd": "rustc 077_todo_manager.rs && ./077_todo_manager",
+    "lines": 109
+  },
+  {
+    "id": 78,
+    "language": "Assembly (x86)",
+    "category": "Systems",
+    "program_type": "File Processor",
+    "filename": "Systems/Assembly (x86)/078_file_processor.asm",
+    "run_cmd": "nasm -f elf64 078_file_processor.asm && ld 078_file_processor.o -o 078_file_processor && ./078_file_processor",
+    "lines": 109
+  },
+  {
+    "id": 79,
+    "language": "Zig",
+    "category": "Systems",
+    "program_type": "Web Server or API Stub",
+    "filename": "Systems/Zig/079_web_server_or_api_stub.zig",
+    "run_cmd": "zig run 079_web_server_or_api_stub.zig",
+    "lines": 109
+  },
+  {
+    "id": 80,
+    "language": "Nim",
+    "category": "Systems",
+    "program_type": "Number Guessing Game",
+    "filename": "Systems/Nim/080_number_guessing_game.nim",
+    "run_cmd": "nim c -r 080_number_guessing_game.nim",
+    "lines": 109
+  },
+  {
+    "id": 81,
+    "language": "D",
+    "category": "Systems",
+    "program_type": "Data Analyzer / Sorter",
+    "filename": "Systems/D/081_data_analyzer___sorter.d",
+    "run_cmd": "dmd -run 081_data_analyzer___sorter.d",
+    "lines": 109
+  },
+  {
+    "id": 82,
+    "language": "V",
+    "category": "Systems",
+    "program_type": "Unit Converter",
+    "filename": "Systems/V/082_unit_converter.v",
+    "run_cmd": "v run 082_unit_converter.v",
+    "lines": 109
+  },
+  {
+    "id": 83,
+    "language": "Ada",
+    "category": "Systems",
+    "program_type": "Text Parser / Formatter",
+    "filename": "Systems/Ada/083_text_parser___formatter.adb",
+    "run_cmd": "gnatmake 083_text_parser___formatter.adb && ./083_text_parser___formatter",
+    "lines": 109
+  },
+  {
+    "id": 84,
+    "language": "Fortran",
+    "category": "Systems",
+    "program_type": "Simple Encryption/Decryption",
+    "filename": "Systems/Fortran/084_simple_encryption_decryption.f90",
+    "run_cmd": "gfortran 084_simple_encryption_decryption.f90 -o 084_simple_encryption_decryption && ./084_simple_encryption_decryption",
+    "lines": 109
+  },
+  {
+    "id": 85,
+    "language": "Cobol",
+    "category": "Systems",
+    "program_type": "Pathfinding Algorithm (e.g. Dijkstra)",
+    "filename": "Systems/Cobol/085_pathfinding_algorithm_(e.g._dijkstra).cbl",
+    "run_cmd": "cobc -x 085_pathfinding_algorithm_(e.g._dijkstra).cbl && ./085_pathfinding_algorithm_(e.g._dijkstra)",
+    "lines": 109
+  },
+  {
+    "id": 86,
+    "language": "Pascal",
+    "category": "Systems",
+    "program_type": "Matrix Multiplication",
+    "filename": "Systems/Pascal/086_matrix_multiplication.pas",
+    "run_cmd": "fpc 086_matrix_multiplication.pas && ./086_matrix_multiplication",
+    "lines": 109
+  },
+  {
+    "id": 87,
+    "language": "R",
+    "category": "Data_Science",
+    "program_type": "Inventory System",
+    "filename": "Data_Science/R/087_inventory_system.R",
+    "run_cmd": "Rscript 087_inventory_system.R",
+    "lines": 109
+  },
+  {
+    "id": 88,
+    "language": "Julia",
+    "category": "Data_Science",
+    "program_type": "Student Grade Management",
+    "filename": "Data_Science/Julia/088_student_grade_management.jl",
+    "run_cmd": "julia 088_student_grade_management.jl",
+    "lines": 109
+  },
+  {
+    "id": 89,
+    "language": "Matlab",
+    "category": "Data_Science",
+    "program_type": "Bank Account System",
+    "filename": "Data_Science/Matlab/089_bank_account_system.m",
+    "run_cmd": "matlab -batch \"run('089_bank_account_system.m')\"",
+    "lines": 109
+  },
+  {
+    "id": 90,
+    "language": "SAS",
+    "category": "Data_Science",
+    "program_type": "Library Management Mockup",
+    "filename": "Data_Science/SAS/090_library_management_mockup.sas",
+    "run_cmd": "sas 090_library_management_mockup.sas",
+    "lines": 109
+  },
+  {
+    "id": 91,
+    "language": "SQL",
+    "category": "Data_Science",
+    "program_type": "CLI Calculator",
+    "filename": "Data_Science/SQL/091_cli_calculator.sql",
+    "run_cmd": "# SQL script",
+    "lines": 109
+  },
+  {
+    "id": 92,
+    "language": "Perl",
+    "category": "Scripting",
+    "program_type": "TODO Manager",
+    "filename": "Scripting/Perl/092_todo_manager.pl",
+    "run_cmd": "perl 092_todo_manager.pl",
+    "lines": 109
+  },
+  {
+    "id": 93,
+    "language": "Lua",
+    "category": "Scripting",
+    "program_type": "File Processor",
+    "filename": "Scripting/Lua/093_file_processor.lua",
+    "run_cmd": "lua 093_file_processor.lua",
+    "lines": 109
+  },
+  {
+    "id": 94,
+    "language": "Shell",
+    "category": "Scripting",
+    "program_type": "Web Server or API Stub",
+    "filename": "Scripting/Shell/094_web_server_or_api_stub.sh",
+    "run_cmd": "bash 094_web_server_or_api_stub.sh",
+    "lines": 109
+  },
+  {
+    "id": 95,
+    "language": "PowerShell",
+    "category": "Scripting",
+    "program_type": "Number Guessing Game",
+    "filename": "Scripting/PowerShell/095_number_guessing_game.ps1",
+    "run_cmd": "powershell -ExecutionPolicy Bypass -File 095_number_guessing_game.ps1",
+    "lines": 109
+  },
+  {
+    "id": 96,
+    "language": "Batch",
+    "category": "Scripting",
+    "program_type": "Data Analyzer / Sorter",
+    "filename": "Scripting/Batch/096_data_analyzer___sorter.bat",
+    "run_cmd": "096_data_analyzer___sorter.bat",
+    "lines": 109
+  },
+  {
+    "id": 97,
+    "language": "Tcl",
+    "category": "Scripting",
+    "program_type": "Unit Converter",
+    "filename": "Scripting/Tcl/097_unit_converter.tcl",
+    "run_cmd": "tclsh 097_unit_converter.tcl",
+    "lines": 109
+  },
+  {
+    "id": 98,
+    "language": "VBScript",
+    "category": "Scripting",
+    "program_type": "Text Parser / Formatter",
+    "filename": "Scripting/VBScript/098_text_parser___formatter.vbs",
+    "run_cmd": "cscript 098_text_parser___formatter.vbs",
+    "lines": 109
+  },
+  {
+    "id": 99,
+    "language": "Groovy",
+    "category": "Scripting",
+    "program_type": "Simple Encryption/Decryption",
+    "filename": "Scripting/Groovy/099_simple_encryption_decryption.groovy",
+    "run_cmd": "groovy 099_simple_encryption_decryption.groovy",
+    "lines": 109
+  },
+  {
+    "id": 100,
+    "language": "CoffeeScript",
+    "category": "Scripting",
+    "program_type": "Pathfinding Algorithm (e.g. Dijkstra)",
+    "filename": "Scripting/CoffeeScript/100_pathfinding_algorithm_(e.g._dijkstra).coffee",
+    "run_cmd": "coffee 100_pathfinding_algorithm_(e.g._dijkstra).coffee",
+    "lines": 109
+  },
+  {
+    "id": 101,
+    "language": "Haskell",
+    "category": "Functional",
+    "program_type": "Matrix Multiplication",
+    "filename": "Functional/Haskell/101_matrix_multiplication.hs",
+    "run_cmd": "runhaskell 101_matrix_multiplication.hs",
+    "lines": 109
+  },
+  {
+    "id": 102,
+    "language": "Scala",
+    "category": "Functional",
+    "program_type": "Inventory System",
+    "filename": "Functional/Scala/102_inventory_system.scala",
+    "run_cmd": "scala 102_inventory_system.scala",
+    "lines": 109
+  },
+  {
+    "id": 103,
+    "language": "Elixir",
+    "category": "Functional",
+    "program_type": "Student Grade Management",
+    "filename": "Functional/Elixir/103_student_grade_management.exs",
+    "run_cmd": "elixir 103_student_grade_management.exs",
+    "lines": 109
+  },
+  {
+    "id": 104,
+    "language": "Clojure",
+    "category": "Functional",
+    "program_type": "Bank Account System",
+    "filename": "Functional/Clojure/104_bank_account_system.clj",
+    "run_cmd": "clojure 104_bank_account_system.clj",
+    "lines": 109
+  },
+  {
+    "id": 105,
+    "language": "F#",
+    "category": "Functional",
+    "program_type": "Library Management Mockup",
+    "filename": "Functional/F#/105_library_management_mockup.fsx",
+    "run_cmd": "dotnet fsi 105_library_management_mockup.fsx",
+    "lines": 109
+  },
+  {
+    "id": 106,
+    "language": "OCaml",
+    "category": "Functional",
+    "program_type": "CLI Calculator",
+    "filename": "Functional/OCaml/106_cli_calculator.ml",
+    "run_cmd": "ocaml 106_cli_calculator.ml",
+    "lines": 109
+  },
+  {
+    "id": 107,
+    "language": "Scheme",
+    "category": "Functional",
+    "program_type": "TODO Manager",
+    "filename": "Functional/Scheme/107_todo_manager.scm",
+    "run_cmd": "scheme < 107_todo_manager.scm",
+    "lines": 109
+  },
+  {
+    "id": 108,
+    "language": "Erlang",
+    "category": "Functional",
+    "program_type": "File Processor",
+    "filename": "Functional/Erlang/108_file_processor.erl",
+    "run_cmd": "escript 108_file_processor.erl",
+    "lines": 109
+  },
+  {
+    "id": 109,
+    "language": "Racket",
+    "category": "Functional",
+    "program_type": "Web Server or API Stub",
+    "filename": "Functional/Racket/109_web_server_or_api_stub.rkt",
+    "run_cmd": "racket 109_web_server_or_api_stub.rkt",
+    "lines": 109
+  },
+  {
+    "id": 110,
+    "language": "Common Lisp",
+    "category": "Functional",
+    "program_type": "Number Guessing Game",
+    "filename": "Functional/Common Lisp/110_number_guessing_game.lisp",
+    "run_cmd": "sbcl --script 110_number_guessing_game.lisp",
+    "lines": 109
+  },
+  {
+    "id": 111,
+    "language": "Verilog",
+    "category": "Hardware",
+    "program_type": "Data Analyzer / Sorter",
+    "filename": "Hardware/Verilog/111_data_analyzer___sorter.v",
+    "run_cmd": "iverilog -o 111_data_analyzer___sorter 111_data_analyzer___sorter.v && vvp 111_data_analyzer___sorter",
+    "lines": 109
+  },
+  {
+    "id": 112,
+    "language": "VHDL",
+    "category": "Hardware",
+    "program_type": "Unit Converter",
+    "filename": "Hardware/VHDL/112_unit_converter.vhd",
+    "run_cmd": "ghdl -a 112_unit_converter.vhd && ghdl -e 112_unit_converter && ghdl -r 112_unit_converter",
+    "lines": 109
+  },
+  {
+    "id": 113,
+    "language": "Haxe",
+    "category": "Other",
+    "program_type": "Text Parser / Formatter",
+    "filename": "Other/Haxe/113_text_parser___formatter.hx",
+    "run_cmd": "haxe -main 113_text_parser___formatter --interp",
+    "lines": 109
+  },
+  {
+    "id": 114,
+    "language": "Smalltalk",
+    "category": "Other",
+    "program_type": "Simple Encryption/Decryption",
+    "filename": "Other/Smalltalk/114_simple_encryption_decryption.st",
+    "run_cmd": "gst 114_simple_encryption_decryption.st",
+    "lines": 109
+  },
+  {
+    "id": 115,
+    "language": "Forth",
+    "category": "Other",
+    "program_type": "Pathfinding Algorithm (e.g. Dijkstra)",
+    "filename": "Other/Forth/115_pathfinding_algorithm_(e.g._dijkstra).fs",
+    "run_cmd": "gforth 115_pathfinding_algorithm_(e.g._dijkstra).fs -e bye",
+    "lines": 109
+  },
+  {
+    "id": 116,
+    "language": "Prolog",
+    "category": "Other",
+    "program_type": "Matrix Multiplication",
+    "filename": "Other/Prolog/116_matrix_multiplication.pl",
+    "run_cmd": "swipl -s 116_matrix_multiplication.pl",
+    "lines": 109
+  },
+  {
+    "id": 117,
+    "language": "JavaScript",
+    "category": "Web",
+    "program_type": "Inventory System",
+    "filename": "Web/JavaScript/117_inventory_system.js",
+    "run_cmd": "node 117_inventory_system.js",
+    "lines": 109
+  },
+  {
+    "id": 118,
+    "language": "TypeScript",
+    "category": "Web",
+    "program_type": "Student Grade Management",
+    "filename": "Web/TypeScript/118_student_grade_management.ts",
+    "run_cmd": "npx ts-node 118_student_grade_management.ts",
+    "lines": 109
+  },
+  {
+    "id": 119,
+    "language": "HTML",
+    "category": "Web",
+    "program_type": "Bank Account System",
+    "filename": "Web/HTML/119_bank_account_system.html",
+    "run_cmd": "# Open in browser",
+    "lines": 109
+  },
+  {
+    "id": 120,
+    "language": "CSS",
+    "category": "Web",
+    "program_type": "Library Management Mockup",
+    "filename": "Web/CSS/120_library_management_mockup.css",
+    "run_cmd": "# Styling file",
+    "lines": 109
+  },
+  {
+    "id": 121,
+    "language": "PHP",
+    "category": "Web",
+    "program_type": "CLI Calculator",
+    "filename": "Web/PHP/121_cli_calculator.php",
+    "run_cmd": "php 121_cli_calculator.php",
+    "lines": 109
+  },
+  {
+    "id": 122,
+    "language": "XML",
+    "category": "Web",
+    "program_type": "TODO Manager",
+    "filename": "Web/XML/122_todo_manager.xml",
+    "run_cmd": "# Data file",
+    "lines": 109
+  },
+  {
+    "id": 123,
+    "language": "JSON",
+    "category": "Web",
+    "program_type": "File Processor",
+    "filename": "Web/JSON/123_file_processor.json",
+    "run_cmd": "# Data file",
+    "lines": 109
+  },
+  {
+    "id": 124,
+    "language": "YAML",
+    "category": "Web",
+    "program_type": "Web Server or API Stub",
+    "filename": "Web/YAML/124_web_server_or_api_stub.yaml",
+    "run_cmd": "# Data file",
+    "lines": 109
+  },
+  {
+    "id": 125,
+    "language": "Python",
+    "category": "Mainstream",
+    "program_type": "Number Guessing Game",
+    "filename": "Mainstream/Python/125_number_guessing_game.py",
+    "run_cmd": "python 125_number_guessing_game.py",
+    "lines": 109
+  },
+  {
+    "id": 126,
+    "language": "Java",
+    "category": "Mainstream",
+    "program_type": "Data Analyzer / Sorter",
+    "filename": "Mainstream/Java/126_data_analyzer___sorter.java",
+    "run_cmd": "javac 126_data_analyzer___sorter.java && java 126_data_analyzer___sorter",
+    "lines": 109
+  },
+  {
+    "id": 127,
+    "language": "C#",
+    "category": "Mainstream",
+    "program_type": "Unit Converter",
+    "filename": "Mainstream/C#/127_unit_converter.cs",
+    "run_cmd": "csc 127_unit_converter.cs && ./127_unit_converter.exe",
+    "lines": 109
+  },
+  {
+    "id": 128,
+    "language": "Go",
+    "category": "Mainstream",
+    "program_type": "Text Parser / Formatter",
+    "filename": "Mainstream/Go/128_text_parser___formatter.go",
+    "run_cmd": "go run 128_text_parser___formatter.go",
+    "lines": 109
+  },
+  {
+    "id": 129,
+    "language": "Ruby",
+    "category": "Mainstream",
+    "program_type": "Simple Encryption/Decryption",
+    "filename": "Mainstream/Ruby/129_simple_encryption_decryption.rb",
+    "run_cmd": "ruby 129_simple_encryption_decryption.rb",
+    "lines": 109
+  },
+  {
+    "id": 130,
+    "language": "Swift",
+    "category": "Mainstream",
+    "program_type": "Pathfinding Algorithm (e.g. Dijkstra)",
+    "filename": "Mainstream/Swift/130_pathfinding_algorithm_(e.g._dijkstra).swift",
+    "run_cmd": "swift 130_pathfinding_algorithm_(e.g._dijkstra).swift",
+    "lines": 109
+  },
+  {
+    "id": 131,
+    "language": "Kotlin",
+    "category": "Mainstream",
+    "program_type": "Matrix Multiplication",
+    "filename": "Mainstream/Kotlin/131_matrix_multiplication.kt",
+    "run_cmd": "kotlinc 131_matrix_multiplication.kt -include-runtime -d 131_matrix_multiplication.jar && java -jar 131_matrix_multiplication.jar",
+    "lines": 109
+  },
+  {
+    "id": 132,
+    "language": "Dart",
+    "category": "Mainstream",
+    "program_type": "Inventory System",
+    "filename": "Mainstream/Dart/132_inventory_system.dart",
+    "run_cmd": "dart 132_inventory_system.dart",
+    "lines": 109
+  },
+  {
+    "id": 133,
+    "language": "C",
+    "category": "Systems",
+    "program_type": "Student Grade Management",
+    "filename": "Systems/C/133_student_grade_management.c",
+    "run_cmd": "gcc 133_student_grade_management.c -o 133_student_grade_management && ./133_student_grade_management",
+    "lines": 109
+  },
+  {
+    "id": 134,
+    "language": "C++",
+    "category": "Systems",
+    "program_type": "Bank Account System",
+    "filename": "Systems/C++/134_bank_account_system.cpp",
+    "run_cmd": "g++ 134_bank_account_system.cpp -o 134_bank_account_system && ./134_bank_account_system",
+    "lines": 109
+  },
+  {
+    "id": 135,
+    "language": "Rust",
+    "category": "Systems",
+    "program_type": "Library Management Mockup",
+    "filename": "Systems/Rust/135_library_management_mockup.rs",
+    "run_cmd": "rustc 135_library_management_mockup.rs && ./135_library_management_mockup",
+    "lines": 109
+  },
+  {
+    "id": 136,
+    "language": "Assembly (x86)",
+    "category": "Systems",
+    "program_type": "CLI Calculator",
+    "filename": "Systems/Assembly (x86)/136_cli_calculator.asm",
+    "run_cmd": "nasm -f elf64 136_cli_calculator.asm && ld 136_cli_calculator.o -o 136_cli_calculator && ./136_cli_calculator",
+    "lines": 109
+  },
+  {
+    "id": 137,
+    "language": "Zig",
+    "category": "Systems",
+    "program_type": "TODO Manager",
+    "filename": "Systems/Zig/137_todo_manager.zig",
+    "run_cmd": "zig run 137_todo_manager.zig",
+    "lines": 109
+  },
+  {
+    "id": 138,
+    "language": "Nim",
+    "category": "Systems",
+    "program_type": "File Processor",
+    "filename": "Systems/Nim/138_file_processor.nim",
+    "run_cmd": "nim c -r 138_file_processor.nim",
+    "lines": 109
+  },
+  {
+    "id": 139,
+    "language": "D",
+    "category": "Systems",
+    "program_type": "Web Server or API Stub",
+    "filename": "Systems/D/139_web_server_or_api_stub.d",
+    "run_cmd": "dmd -run 139_web_server_or_api_stub.d",
+    "lines": 109
+  },
+  {
+    "id": 140,
+    "language": "V",
+    "category": "Systems",
+    "program_type": "Number Guessing Game",
+    "filename": "Systems/V/140_number_guessing_game.v",
+    "run_cmd": "v run 140_number_guessing_game.v",
+    "lines": 109
+  },
+  {
+    "id": 141,
+    "language": "Ada",
+    "category": "Systems",
+    "program_type": "Data Analyzer / Sorter",
+    "filename": "Systems/Ada/141_data_analyzer___sorter.adb",
+    "run_cmd": "gnatmake 141_data_analyzer___sorter.adb && ./141_data_analyzer___sorter",
+    "lines": 109
+  },
+  {
+    "id": 142,
+    "language": "Fortran",
+    "category": "Systems",
+    "program_type": "Unit Converter",
+    "filename": "Systems/Fortran/142_unit_converter.f90",
+    "run_cmd": "gfortran 142_unit_converter.f90 -o 142_unit_converter && ./142_unit_converter",
+    "lines": 109
+  },
+  {
+    "id": 143,
+    "language": "Cobol",
+    "category": "Systems",
+    "program_type": "Text Parser / Formatter",
+    "filename": "Systems/Cobol/143_text_parser___formatter.cbl",
+    "run_cmd": "cobc -x 143_text_parser___formatter.cbl && ./143_text_parser___formatter",
+    "lines": 109
+  },
+  {
+    "id": 144,
+    "language": "Pascal",
+    "category": "Systems",
+    "program_type": "Simple Encryption/Decryption",
+    "filename": "Systems/Pascal/144_simple_encryption_decryption.pas",
+    "run_cmd": "fpc 144_simple_encryption_decryption.pas && ./144_simple_encryption_decryption",
+    "lines": 109
+  },
+  {
+    "id": 145,
+    "language": "R",
+    "category": "Data_Science",
+    "program_type": "Pathfinding Algorithm (e.g. Dijkstra)",
+    "filename": "Data_Science/R/145_pathfinding_algorithm_(e.g._dijkstra).R",
+    "run_cmd": "Rscript 145_pathfinding_algorithm_(e.g._dijkstra).R",
+    "lines": 109
+  },
+  {
+    "id": 146,
+    "language": "Julia",
+    "category": "Data_Science",
+    "program_type": "Matrix Multiplication",
+    "filename": "Data_Science/Julia/146_matrix_multiplication.jl",
+    "run_cmd": "julia 146_matrix_multiplication.jl",
+    "lines": 109
+  },
+  {
+    "id": 147,
+    "language": "Matlab",
+    "category": "Data_Science",
+    "program_type": "Inventory System",
+    "filename": "Data_Science/Matlab/147_inventory_system.m",
+    "run_cmd": "matlab -batch \"run('147_inventory_system.m')\"",
+    "lines": 109
+  },
+  {
+    "id": 148,
+    "language": "SAS",
+    "category": "Data_Science",
+    "program_type": "Student Grade Management",
+    "filename": "Data_Science/SAS/148_student_grade_management.sas",
+    "run_cmd": "sas 148_student_grade_management.sas",
+    "lines": 109
+  },
+  {
+    "id": 149,
+    "language": "SQL",
+    "category": "Data_Science",
+    "program_type": "Bank Account System",
+    "filename": "Data_Science/SQL/149_bank_account_system.sql",
+    "run_cmd": "# SQL script",
+    "lines": 109
+  },
+  {
+    "id": 150,
+    "language": "Perl",
+    "category": "Scripting",
+    "program_type": "Library Management Mockup",
+    "filename": "Scripting/Perl/150_library_management_mockup.pl",
+    "run_cmd": "perl 150_library_management_mockup.pl",
+    "lines": 109
+  },
+  {
+    "id": 151,
+    "language": "Lua",
+    "category": "Scripting",
+    "program_type": "CLI Calculator",
+    "filename": "Scripting/Lua/151_cli_calculator.lua",
+    "run_cmd": "lua 151_cli_calculator.lua",
+    "lines": 109
+  },
+  {
+    "id": 152,
+    "language": "Shell",
+    "category": "Scripting",
+    "program_type": "TODO Manager",
+    "filename": "Scripting/Shell/152_todo_manager.sh",
+    "run_cmd": "bash 152_todo_manager.sh",
+    "lines": 109
+  },
+  {
+    "id": 153,
+    "language": "PowerShell",
+    "category": "Scripting",
+    "program_type": "File Processor",
+    "filename": "Scripting/PowerShell/153_file_processor.ps1",
+    "run_cmd": "powershell -ExecutionPolicy Bypass -File 153_file_processor.ps1",
+    "lines": 109
+  },
+  {
+    "id": 154,
+    "language": "Batch",
+    "category": "Scripting",
+    "program_type": "Web Server or API Stub",
+    "filename": "Scripting/Batch/154_web_server_or_api_stub.bat",
+    "run_cmd": "154_web_server_or_api_stub.bat",
+    "lines": 109
+  },
+  {
+    "id": 155,
+    "language": "Tcl",
+    "category": "Scripting",
+    "program_type": "Number Guessing Game",
+    "filename": "Scripting/Tcl/155_number_guessing_game.tcl",
+    "run_cmd": "tclsh 155_number_guessing_game.tcl",
+    "lines": 109
+  },
+  {
+    "id": 156,
+    "language": "VBScript",
+    "category": "Scripting",
+    "program_type": "Data Analyzer / Sorter",
+    "filename": "Scripting/VBScript/156_data_analyzer___sorter.vbs",
+    "run_cmd": "cscript 156_data_analyzer___sorter.vbs",
+    "lines": 109
+  },
+  {
+    "id": 157,
+    "language": "Groovy",
+    "category": "Scripting",
+    "program_type": "Unit Converter",
+    "filename": "Scripting/Groovy/157_unit_converter.groovy",
+    "run_cmd": "groovy 157_unit_converter.groovy",
+    "lines": 109
+  },
+  {
+    "id": 158,
+    "language": "CoffeeScript",
+    "category": "Scripting",
+    "program_type": "Text Parser / Formatter",
+    "filename": "Scripting/CoffeeScript/158_text_parser___formatter.coffee",
+    "run_cmd": "coffee 158_text_parser___formatter.coffee",
+    "lines": 109
+  },
+  {
+    "id": 159,
+    "language": "Haskell",
+    "category": "Functional",
+    "program_type": "Simple Encryption/Decryption",
+    "filename": "Functional/Haskell/159_simple_encryption_decryption.hs",
+    "run_cmd": "runhaskell 159_simple_encryption_decryption.hs",
+    "lines": 109
+  },
+  {
+    "id": 160,
+    "language": "Scala",
+    "category": "Functional",
+    "program_type": "Pathfinding Algorithm (e.g. Dijkstra)",
+    "filename": "Functional/Scala/160_pathfinding_algorithm_(e.g._dijkstra).scala",
+    "run_cmd": "scala 160_pathfinding_algorithm_(e.g._dijkstra).scala",
+    "lines": 109
+  },
+  {
+    "id": 161,
+    "language": "Elixir",
+    "category": "Functional",
+    "program_type": "Matrix Multiplication",
+    "filename": "Functional/Elixir/161_matrix_multiplication.exs",
+    "run_cmd": "elixir 161_matrix_multiplication.exs",
+    "lines": 109
+  },
+  {
+    "id": 162,
+    "language": "Clojure",
+    "category": "Functional",
+    "program_type": "Inventory System",
+    "filename": "Functional/Clojure/162_inventory_system.clj",
+    "run_cmd": "clojure 162_inventory_system.clj",
+    "lines": 109
+  },
+  {
+    "id": 163,
+    "language": "F#",
+    "category": "Functional",
+    "program_type": "Student Grade Management",
+    "filename": "Functional/F#/163_student_grade_management.fsx",
+    "run_cmd": "dotnet fsi 163_student_grade_management.fsx",
+    "lines": 109
+  },
+  {
+    "id": 164,
+    "language": "OCaml",
+    "category": "Functional",
+    "program_type": "Bank Account System",
+    "filename": "Functional/OCaml/164_bank_account_system.ml",
+    "run_cmd": "ocaml 164_bank_account_system.ml",
+    "lines": 109
+  },
+  {
+    "id": 165,
+    "language": "Scheme",
+    "category": "Functional",
+    "program_type": "Library Management Mockup",
+    "filename": "Functional/Scheme/165_library_management_mockup.scm",
+    "run_cmd": "scheme < 165_library_management_mockup.scm",
+    "lines": 109
+  },
+  {
+    "id": 166,
+    "language": "Erlang",
+    "category": "Functional",
+    "program_type": "CLI Calculator",
+    "filename": "Functional/Erlang/166_cli_calculator.erl",
+    "run_cmd": "escript 166_cli_calculator.erl",
+    "lines": 109
+  },
+  {
+    "id": 167,
+    "language": "Racket",
+    "category": "Functional",
+    "program_type": "TODO Manager",
+    "filename": "Functional/Racket/167_todo_manager.rkt",
+    "run_cmd": "racket 167_todo_manager.rkt",
+    "lines": 109
+  },
+  {
+    "id": 168,
+    "language": "Common Lisp",
+    "category": "Functional",
+    "program_type": "File Processor",
+    "filename": "Functional/Common Lisp/168_file_processor.lisp",
+    "run_cmd": "sbcl --script 168_file_processor.lisp",
+    "lines": 109
+  },
+  {
+    "id": 169,
+    "language": "Verilog",
+    "category": "Hardware",
+    "program_type": "Web Server or API Stub",
+    "filename": "Hardware/Verilog/169_web_server_or_api_stub.v",
+    "run_cmd": "iverilog -o 169_web_server_or_api_stub 169_web_server_or_api_stub.v && vvp 169_web_server_or_api_stub",
+    "lines": 109
+  },
+  {
+    "id": 170,
+    "language": "VHDL",
+    "category": "Hardware",
+    "program_type": "Number Guessing Game",
+    "filename": "Hardware/VHDL/170_number_guessing_game.vhd",
+    "run_cmd": "ghdl -a 170_number_guessing_game.vhd && ghdl -e 170_number_guessing_game && ghdl -r 170_number_guessing_game",
+    "lines": 109
+  },
+  {
+    "id": 171,
+    "language": "Haxe",
+    "category": "Other",
+    "program_type": "Data Analyzer / Sorter",
+    "filename": "Other/Haxe/171_data_analyzer___sorter.hx",
+    "run_cmd": "haxe -main 171_data_analyzer___sorter --interp",
+    "lines": 109
+  },
+  {
+    "id": 172,
+    "language": "Smalltalk",
+    "category": "Other",
+    "program_type": "Unit Converter",
+    "filename": "Other/Smalltalk/172_unit_converter.st",
+    "run_cmd": "gst 172_unit_converter.st",
+    "lines": 109
+  },
+  {
+    "id": 173,
+    "language": "Forth",
+    "category": "Other",
+    "program_type": "Text Parser / Formatter",
+    "filename": "Other/Forth/173_text_parser___formatter.fs",
+    "run_cmd": "gforth 173_text_parser___formatter.fs -e bye",
+    "lines": 109
+  },
+  {
+    "id": 174,
+    "language": "Prolog",
+    "category": "Other",
+    "program_type": "Simple Encryption/Decryption",
+    "filename": "Other/Prolog/174_simple_encryption_decryption.pl",
+    "run_cmd": "swipl -s 174_simple_encryption_decryption.pl",
+    "lines": 109
+  },
+  {
+    "id": 175,
+    "language": "JavaScript",
+    "category": "Web",
+    "program_type": "Pathfinding Algorithm (e.g. Dijkstra)",
+    "filename": "Web/JavaScript/175_pathfinding_algorithm_(e.g._dijkstra).js",
+    "run_cmd": "node 175_pathfinding_algorithm_(e.g._dijkstra).js",
+    "lines": 109
+  },
+  {
+    "id": 176,
+    "language": "TypeScript",
+    "category": "Web",
+    "program_type": "Matrix Multiplication",
+    "filename": "Web/TypeScript/176_matrix_multiplication.ts",
+    "run_cmd": "npx ts-node 176_matrix_multiplication.ts",
+    "lines": 109
+  },
+  {
+    "id": 177,
+    "language": "HTML",
+    "category": "Web",
+    "program_type": "Inventory System",
+    "filename": "Web/HTML/177_inventory_system.html",
+    "run_cmd": "# Open in browser",
+    "lines": 109
+  },
+  {
+    "id": 178,
+    "language": "CSS",
+    "category": "Web",
+    "program_type": "Student Grade Management",
+    "filename": "Web/CSS/178_student_grade_management.css",
+    "run_cmd": "# Styling file",
+    "lines": 109
+  },
+  {
+    "id": 179,
+    "language": "PHP",
+    "category": "Web",
+    "program_type": "Bank Account System",
+    "filename": "Web/PHP/179_bank_account_system.php",
+    "run_cmd": "php 179_bank_account_system.php",
+    "lines": 109
+  },
+  {
+    "id": 180,
+    "language": "XML",
+    "category": "Web",
+    "program_type": "Library Management Mockup",
+    "filename": "Web/XML/180_library_management_mockup.xml",
+    "run_cmd": "# Data file",
+    "lines": 109
+  },
+  {
+    "id": 181,
+    "language": "JSON",
+    "category": "Web",
+    "program_type": "CLI Calculator",
+    "filename": "Web/JSON/181_cli_calculator.json",
+    "run_cmd": "# Data file",
+    "lines": 109
+  },
+  {
+    "id": 182,
+    "language": "YAML",
+    "category": "Web",
+    "program_type": "TODO Manager",
+    "filename": "Web/YAML/182_todo_manager.yaml",
+    "run_cmd": "# Data file",
+    "lines": 109
+  },
+  {
+    "id": 183,
+    "language": "Python",
+    "category": "Mainstream",
+    "program_type": "File Processor",
+    "filename": "Mainstream/Python/183_file_processor.py",
+    "run_cmd": "python 183_file_processor.py",
+    "lines": 109
+  },
+  {
+    "id": 184,
+    "language": "Java",
+    "category": "Mainstream",
+    "program_type": "Web Server or API Stub",
+    "filename": "Mainstream/Java/184_web_server_or_api_stub.java",
+    "run_cmd": "javac 184_web_server_or_api_stub.java && java 184_web_server_or_api_stub",
+    "lines": 109
+  },
+  {
+    "id": 185,
+    "language": "C#",
+    "category": "Mainstream",
+    "program_type": "Number Guessing Game",
+    "filename": "Mainstream/C#/185_number_guessing_game.cs",
+    "run_cmd": "csc 185_number_guessing_game.cs && ./185_number_guessing_game.exe",
+    "lines": 109
+  },
+  {
+    "id": 186,
+    "language": "Go",
+    "category": "Mainstream",
+    "program_type": "Data Analyzer / Sorter",
+    "filename": "Mainstream/Go/186_data_analyzer___sorter.go",
+    "run_cmd": "go run 186_data_analyzer___sorter.go",
+    "lines": 109
+  },
+  {
+    "id": 187,
+    "language": "Ruby",
+    "category": "Mainstream",
+    "program_type": "Unit Converter",
+    "filename": "Mainstream/Ruby/187_unit_converter.rb",
+    "run_cmd": "ruby 187_unit_converter.rb",
+    "lines": 109
+  },
+  {
+    "id": 188,
+    "language": "Swift",
+    "category": "Mainstream",
+    "program_type": "Text Parser / Formatter",
+    "filename": "Mainstream/Swift/188_text_parser___formatter.swift",
+    "run_cmd": "swift 188_text_parser___formatter.swift",
+    "lines": 109
+  },
+  {
+    "id": 189,
+    "language": "Kotlin",
+    "category": "Mainstream",
+    "program_type": "Simple Encryption/Decryption",
+    "filename": "Mainstream/Kotlin/189_simple_encryption_decryption.kt",
+    "run_cmd": "kotlinc 189_simple_encryption_decryption.kt -include-runtime -d 189_simple_encryption_decryption.jar && java -jar 189_simple_encryption_decryption.jar",
+    "lines": 109
+  },
+  {
+    "id": 190,
+    "language": "Dart",
+    "category": "Mainstream",
+    "program_type": "Pathfinding Algorithm (e.g. Dijkstra)",
+    "filename": "Mainstream/Dart/190_pathfinding_algorithm_(e.g._dijkstra).dart",
+    "run_cmd": "dart 190_pathfinding_algorithm_(e.g._dijkstra).dart",
+    "lines": 109
+  },
+  {
+    "id": 191,
+    "language": "C",
+    "category": "Systems",
+    "program_type": "Matrix Multiplication",
+    "filename": "Systems/C/191_matrix_multiplication.c",
+    "run_cmd": "gcc 191_matrix_multiplication.c -o 191_matrix_multiplication && ./191_matrix_multiplication",
+    "lines": 109
+  },
+  {
+    "id": 192,
+    "language": "C++",
+    "category": "Systems",
+    "program_type": "Inventory System",
+    "filename": "Systems/C++/192_inventory_system.cpp",
+    "run_cmd": "g++ 192_inventory_system.cpp -o 192_inventory_system && ./192_inventory_system",
+    "lines": 109
+  },
+  {
+    "id": 193,
+    "language": "Rust",
+    "category": "Systems",
+    "program_type": "Student Grade Management",
+    "filename": "Systems/Rust/193_student_grade_management.rs",
+    "run_cmd": "rustc 193_student_grade_management.rs && ./193_student_grade_management",
+    "lines": 109
+  },
+  {
+    "id": 194,
+    "language": "Assembly (x86)",
+    "category": "Systems",
+    "program_type": "Bank Account System",
+    "filename": "Systems/Assembly (x86)/194_bank_account_system.asm",
+    "run_cmd": "nasm -f elf64 194_bank_account_system.asm && ld 194_bank_account_system.o -o 194_bank_account_system && ./194_bank_account_system",
+    "lines": 109
+  },
+  {
+    "id": 195,
+    "language": "Zig",
+    "category": "Systems",
+    "program_type": "Library Management Mockup",
+    "filename": "Systems/Zig/195_library_management_mockup.zig",
+    "run_cmd": "zig run 195_library_management_mockup.zig",
+    "lines": 109
+  },
+  {
+    "id": 196,
+    "language": "Nim",
+    "category": "Systems",
+    "program_type": "CLI Calculator",
+    "filename": "Systems/Nim/196_cli_calculator.nim",
+    "run_cmd": "nim c -r 196_cli_calculator.nim",
+    "lines": 109
+  },
+  {
+    "id": 197,
+    "language": "D",
+    "category": "Systems",
+    "program_type": "TODO Manager",
+    "filename": "Systems/D/197_todo_manager.d",
+    "run_cmd": "dmd -run 197_todo_manager.d",
+    "lines": 109
+  },
+  {
+    "id": 198,
+    "language": "V",
+    "category": "Systems",
+    "program_type": "File Processor",
+    "filename": "Systems/V/198_file_processor.v",
+    "run_cmd": "v run 198_file_processor.v",
+    "lines": 109
+  },
+  {
+    "id": 199,
+    "language": "Ada",
+    "category": "Systems",
+    "program_type": "Web Server or API Stub",
+    "filename": "Systems/Ada/199_web_server_or_api_stub.adb",
+    "run_cmd": "gnatmake 199_web_server_or_api_stub.adb && ./199_web_server_or_api_stub",
+    "lines": 109
+  },
+  {
+    "id": 200,
+    "language": "Fortran",
+    "category": "Systems",
+    "program_type": "Number Guessing Game",
+    "filename": "Systems/Fortran/200_number_guessing_game.f90",
+    "run_cmd": "gfortran 200_number_guessing_game.f90 -o 200_number_guessing_game && ./200_number_guessing_game",
+    "lines": 109
+  },
+  {
+    "id": 201,
+    "language": "Cobol",
+    "category": "Systems",
+    "program_type": "Data Analyzer / Sorter",
+    "filename": "Systems/Cobol/201_data_analyzer___sorter.cbl",
+    "run_cmd": "cobc -x 201_data_analyzer___sorter.cbl && ./201_data_analyzer___sorter",
+    "lines": 109
+  },
+  {
+    "id": 202,
+    "language": "Pascal",
+    "category": "Systems",
+    "program_type": "Unit Converter",
+    "filename": "Systems/Pascal/202_unit_converter.pas",
+    "run_cmd": "fpc 202_unit_converter.pas && ./202_unit_converter",
+    "lines": 109
+  },
+  {
+    "id": 203,
+    "language": "R",
+    "category": "Data_Science",
+    "program_type": "Text Parser / Formatter",
+    "filename": "Data_Science/R/203_text_parser___formatter.R",
+    "run_cmd": "Rscript 203_text_parser___formatter.R",
+    "lines": 109
+  },
+  {
+    "id": 204,
+    "language": "Julia",
+    "category": "Data_Science",
+    "program_type": "Simple Encryption/Decryption",
+    "filename": "Data_Science/Julia/204_simple_encryption_decryption.jl",
+    "run_cmd": "julia 204_simple_encryption_decryption.jl",
+    "lines": 109
+  },
+  {
+    "id": 205,
+    "language": "Matlab",
+    "category": "Data_Science",
+    "program_type": "Pathfinding Algorithm (e.g. Dijkstra)",
+    "filename": "Data_Science/Matlab/205_pathfinding_algorithm_(e.g._dijkstra).m",
+    "run_cmd": "matlab -batch \"run('205_pathfinding_algorithm_(e.g._dijkstra).m')\"",
+    "lines": 109
+  },
+  {
+    "id": 206,
+    "language": "SAS",
+    "category": "Data_Science",
+    "program_type": "Matrix Multiplication",
+    "filename": "Data_Science/SAS/206_matrix_multiplication.sas",
+    "run_cmd": "sas 206_matrix_multiplication.sas",
+    "lines": 109
+  },
+  {
+    "id": 207,
+    "language": "SQL",
+    "category": "Data_Science",
+    "program_type": "Inventory System",
+    "filename": "Data_Science/SQL/207_inventory_system.sql",
+    "run_cmd": "# SQL script",
+    "lines": 109
+  },
+  {
+    "id": 208,
+    "language": "Perl",
+    "category": "Scripting",
+    "program_type": "Student Grade Management",
+    "filename": "Scripting/Perl/208_student_grade_management.pl",
+    "run_cmd": "perl 208_student_grade_management.pl",
+    "lines": 109
+  },
+  {
+    "id": 209,
+    "language": "Lua",
+    "category": "Scripting",
+    "program_type": "Bank Account System",
+    "filename": "Scripting/Lua/209_bank_account_system.lua",
+    "run_cmd": "lua 209_bank_account_system.lua",
+    "lines": 109
+  },
+  {
+    "id": 210,
+    "language": "Shell",
+    "category": "Scripting",
+    "program_type": "Library Management Mockup",
+    "filename": "Scripting/Shell/210_library_management_mockup.sh",
+    "run_cmd": "bash 210_library_management_mockup.sh",
+    "lines": 109
+  },
+  {
+    "id": 211,
+    "language": "PowerShell",
+    "category": "Scripting",
+    "program_type": "CLI Calculator",
+    "filename": "Scripting/PowerShell/211_cli_calculator.ps1",
+    "run_cmd": "powershell -ExecutionPolicy Bypass -File 211_cli_calculator.ps1",
+    "lines": 109
+  },
+  {
+    "id": 212,
+    "language": "Batch",
+    "category": "Scripting",
+    "program_type": "TODO Manager",
+    "filename": "Scripting/Batch/212_todo_manager.bat",
+    "run_cmd": "212_todo_manager.bat",
+    "lines": 109
+  },
+  {
+    "id": 213,
+    "language": "Tcl",
+    "category": "Scripting",
+    "program_type": "File Processor",
+    "filename": "Scripting/Tcl/213_file_processor.tcl",
+    "run_cmd": "tclsh 213_file_processor.tcl",
+    "lines": 109
+  },
+  {
+    "id": 214,
+    "language": "VBScript",
+    "category": "Scripting",
+    "program_type": "Web Server or API Stub",
+    "filename": "Scripting/VBScript/214_web_server_or_api_stub.vbs",
+    "run_cmd": "cscript 214_web_server_or_api_stub.vbs",
+    "lines": 109
+  },
+  {
+    "id": 215,
+    "language": "Groovy",
+    "category": "Scripting",
+    "program_type": "Number Guessing Game",
+    "filename": "Scripting/Groovy/215_number_guessing_game.groovy",
+    "run_cmd": "groovy 215_number_guessing_game.groovy",
+    "lines": 109
+  },
+  {
+    "id": 216,
+    "language": "CoffeeScript",
+    "category": "Scripting",
+    "program_type": "Data Analyzer / Sorter",
+    "filename": "Scripting/CoffeeScript/216_data_analyzer___sorter.coffee",
+    "run_cmd": "coffee 216_data_analyzer___sorter.coffee",
+    "lines": 109
+  },
+  {
+    "id": 217,
+    "language": "Haskell",
+    "category": "Functional",
+    "program_type": "Unit Converter",
+    "filename": "Functional/Haskell/217_unit_converter.hs",
+    "run_cmd": "runhaskell 217_unit_converter.hs",
+    "lines": 109
+  },
+  {
+    "id": 218,
+    "language": "Scala",
+    "category": "Functional",
+    "program_type": "Text Parser / Formatter",
+    "filename": "Functional/Scala/218_text_parser___formatter.scala",
+    "run_cmd": "scala 218_text_parser___formatter.scala",
+    "lines": 109
+  },
+  {
+    "id": 219,
+    "language": "Elixir",
+    "category": "Functional",
+    "program_type": "Simple Encryption/Decryption",
+    "filename": "Functional/Elixir/219_simple_encryption_decryption.exs",
+    "run_cmd": "elixir 219_simple_encryption_decryption.exs",
+    "lines": 109
+  },
+  {
+    "id": 220,
+    "language": "Clojure",
+    "category": "Functional",
+    "program_type": "Pathfinding Algorithm (e.g. Dijkstra)",
+    "filename": "Functional/Clojure/220_pathfinding_algorithm_(e.g._dijkstra).clj",
+    "run_cmd": "clojure 220_pathfinding_algorithm_(e.g._dijkstra).clj",
+    "lines": 109
+  },
+  {
+    "id": 221,
+    "language": "F#",
+    "category": "Functional",
+    "program_type": "Matrix Multiplication",
+    "filename": "Functional/F#/221_matrix_multiplication.fsx",
+    "run_cmd": "dotnet fsi 221_matrix_multiplication.fsx",
+    "lines": 109
+  },
+  {
+    "id": 222,
+    "language": "OCaml",
+    "category": "Functional",
+    "program_type": "Inventory System",
+    "filename": "Functional/OCaml/222_inventory_system.ml",
+    "run_cmd": "ocaml 222_inventory_system.ml",
+    "lines": 109
+  },
+  {
+    "id": 223,
+    "language": "Scheme",
+    "category": "Functional",
+    "program_type": "Student Grade Management",
+    "filename": "Functional/Scheme/223_student_grade_management.scm",
+    "run_cmd": "scheme < 223_student_grade_management.scm",
+    "lines": 109
+  },
+  {
+    "id": 224,
+    "language": "Erlang",
+    "category": "Functional",
+    "program_type": "Bank Account System",
+    "filename": "Functional/Erlang/224_bank_account_system.erl",
+    "run_cmd": "escript 224_bank_account_system.erl",
+    "lines": 109
+  },
+  {
+    "id": 225,
+    "language": "Racket",
+    "category": "Functional",
+    "program_type": "Library Management Mockup",
+    "filename": "Functional/Racket/225_library_management_mockup.rkt",
+    "run_cmd": "racket 225_library_management_mockup.rkt",
+    "lines": 109
+  },
+  {
+    "id": 226,
+    "language": "Common Lisp",
+    "category": "Functional",
+    "program_type": "CLI Calculator",
+    "filename": "Functional/Common Lisp/226_cli_calculator.lisp",
+    "run_cmd": "sbcl --script 226_cli_calculator.lisp",
+    "lines": 109
+  },
+  {
+    "id": 227,
+    "language": "Verilog",
+    "category": "Hardware",
+    "program_type": "TODO Manager",
+    "filename": "Hardware/Verilog/227_todo_manager.v",
+    "run_cmd": "iverilog -o 227_todo_manager 227_todo_manager.v && vvp 227_todo_manager",
+    "lines": 109
+  },
+  {
+    "id": 228,
+    "language": "VHDL",
+    "category": "Hardware",
+    "program_type": "File Processor",
+    "filename": "Hardware/VHDL/228_file_processor.vhd",
+    "run_cmd": "ghdl -a 228_file_processor.vhd && ghdl -e 228_file_processor && ghdl -r 228_file_processor",
+    "lines": 109
+  },
+  {
+    "id": 229,
+    "language": "Haxe",
+    "category": "Other",
+    "program_type": "Web Server or API Stub",
+    "filename": "Other/Haxe/229_web_server_or_api_stub.hx",
+    "run_cmd": "haxe -main 229_web_server_or_api_stub --interp",
+    "lines": 109
+  },
+  {
+    "id": 230,
+    "language": "Smalltalk",
+    "category": "Other",
+    "program_type": "Number Guessing Game",
+    "filename": "Other/Smalltalk/230_number_guessing_game.st",
+    "run_cmd": "gst 230_number_guessing_game.st",
+    "lines": 109
+  },
+  {
+    "id": 231,
+    "language": "Forth",
+    "category": "Other",
+    "program_type": "Data Analyzer / Sorter",
+    "filename": "Other/Forth/231_data_analyzer___sorter.fs",
+    "run_cmd": "gforth 231_data_analyzer___sorter.fs -e bye",
+    "lines": 109
+  },
+  {
+    "id": 232,
+    "language": "Prolog",
+    "category": "Other",
+    "program_type": "Unit Converter",
+    "filename": "Other/Prolog/232_unit_converter.pl",
+    "run_cmd": "swipl -s 232_unit_converter.pl",
+    "lines": 109
+  },
+  {
+    "id": 233,
+    "language": "JavaScript",
+    "category": "Web",
+    "program_type": "Text Parser / Formatter",
+    "filename": "Web/JavaScript/233_text_parser___formatter.js",
+    "run_cmd": "node 233_text_parser___formatter.js",
+    "lines": 109
+  },
+  {
+    "id": 234,
+    "language": "TypeScript",
+    "category": "Web",
+    "program_type": "Simple Encryption/Decryption",
+    "filename": "Web/TypeScript/234_simple_encryption_decryption.ts",
+    "run_cmd": "npx ts-node 234_simple_encryption_decryption.ts",
+    "lines": 109
+  },
+  {
+    "id": 235,
+    "language": "HTML",
+    "category": "Web",
+    "program_type": "Pathfinding Algorithm (e.g. Dijkstra)",
+    "filename": "Web/HTML/235_pathfinding_algorithm_(e.g._dijkstra).html",
+    "run_cmd": "# Open in browser",
+    "lines": 109
+  },
+  {
+    "id": 236,
+    "language": "CSS",
+    "category": "Web",
+    "program_type": "Matrix Multiplication",
+    "filename": "Web/CSS/236_matrix_multiplication.css",
+    "run_cmd": "# Styling file",
+    "lines": 109
+  },
+  {
+    "id": 237,
+    "language": "PHP",
+    "category": "Web",
+    "program_type": "Inventory System",
+    "filename": "Web/PHP/237_inventory_system.php",
+    "run_cmd": "php 237_inventory_system.php",
+    "lines": 109
+  },
+  {
+    "id": 238,
+    "language": "XML",
+    "category": "Web",
+    "program_type": "Student Grade Management",
+    "filename": "Web/XML/238_student_grade_management.xml",
+    "run_cmd": "# Data file",
+    "lines": 109
+  },
+  {
+    "id": 239,
+    "language": "JSON",
+    "category": "Web",
+    "program_type": "Bank Account System",
+    "filename": "Web/JSON/239_bank_account_system.json",
+    "run_cmd": "# Data file",
+    "lines": 109
+  },
+  {
+    "id": 240,
+    "language": "YAML",
+    "category": "Web",
+    "program_type": "Library Management Mockup",
+    "filename": "Web/YAML/240_library_management_mockup.yaml",
+    "run_cmd": "# Data file",
+    "lines": 109
+  },
+  {
+    "id": 241,
+    "language": "Python",
+    "category": "Mainstream",
+    "program_type": "CLI Calculator",
+    "filename": "Mainstream/Python/241_cli_calculator.py",
+    "run_cmd": "python 241_cli_calculator.py",
+    "lines": 109
+  },
+  {
+    "id": 242,
+    "language": "Java",
+    "category": "Mainstream",
+    "program_type": "TODO Manager",
+    "filename": "Mainstream/Java/242_todo_manager.java",
+    "run_cmd": "javac 242_todo_manager.java && java 242_todo_manager",
+    "lines": 109
+  },
+  {
+    "id": 243,
+    "language": "C#",
+    "category": "Mainstream",
+    "program_type": "File Processor",
+    "filename": "Mainstream/C#/243_file_processor.cs",
+    "run_cmd": "csc 243_file_processor.cs && ./243_file_processor.exe",
+    "lines": 109
+  },
+  {
+    "id": 244,
+    "language": "Go",
+    "category": "Mainstream",
+    "program_type": "Web Server or API Stub",
+    "filename": "Mainstream/Go/244_web_server_or_api_stub.go",
+    "run_cmd": "go run 244_web_server_or_api_stub.go",
+    "lines": 109
+  },
+  {
+    "id": 245,
+    "language": "Ruby",
+    "category": "Mainstream",
+    "program_type": "Number Guessing Game",
+    "filename": "Mainstream/Ruby/245_number_guessing_game.rb",
+    "run_cmd": "ruby 245_number_guessing_game.rb",
+    "lines": 109
+  },
+  {
+    "id": 246,
+    "language": "Swift",
+    "category": "Mainstream",
+    "program_type": "Data Analyzer / Sorter",
+    "filename": "Mainstream/Swift/246_data_analyzer___sorter.swift",
+    "run_cmd": "swift 246_data_analyzer___sorter.swift",
+    "lines": 109
+  },
+  {
+    "id": 247,
+    "language": "Kotlin",
+    "category": "Mainstream",
+    "program_type": "Unit Converter",
+    "filename": "Mainstream/Kotlin/247_unit_converter.kt",
+    "run_cmd": "kotlinc 247_unit_converter.kt -include-runtime -d 247_unit_converter.jar && java -jar 247_unit_converter.jar",
+    "lines": 109
+  },
+  {
+    "id": 248,
+    "language": "Dart",
+    "category": "Mainstream",
+    "program_type": "Text Parser / Formatter",
+    "filename": "Mainstream/Dart/248_text_parser___formatter.dart",
+    "run_cmd": "dart 248_text_parser___formatter.dart",
+    "lines": 109
+  },
+  {
+    "id": 249,
+    "language": "C",
+    "category": "Systems",
+    "program_type": "Simple Encryption/Decryption",
+    "filename": "Systems/C/249_simple_encryption_decryption.c",
+    "run_cmd": "gcc 249_simple_encryption_decryption.c -o 249_simple_encryption_decryption && ./249_simple_encryption_decryption",
+    "lines": 109
+  },
+  {
+    "id": 250,
+    "language": "C++",
+    "category": "Systems",
+    "program_type": "Pathfinding Algorithm (e.g. Dijkstra)",
+    "filename": "Systems/C++/250_pathfinding_algorithm_(e.g._dijkstra).cpp",
+    "run_cmd": "g++ 250_pathfinding_algorithm_(e.g._dijkstra).cpp -o 250_pathfinding_algorithm_(e.g._dijkstra) && ./250_pathfinding_algorithm_(e.g._dijkstra)",
+    "lines": 109
+  },
+  {
+    "id": 251,
+    "language": "Rust",
+    "category": "Systems",
+    "program_type": "Matrix Multiplication",
+    "filename": "Systems/Rust/251_matrix_multiplication.rs",
+    "run_cmd": "rustc 251_matrix_multiplication.rs && ./251_matrix_multiplication",
+    "lines": 109
+  },
+  {
+    "id": 252,
+    "language": "Assembly (x86)",
+    "category": "Systems",
+    "program_type": "Inventory System",
+    "filename": "Systems/Assembly (x86)/252_inventory_system.asm",
+    "run_cmd": "nasm -f elf64 252_inventory_system.asm && ld 252_inventory_system.o -o 252_inventory_system && ./252_inventory_system",
+    "lines": 109
+  },
+  {
+    "id": 253,
+    "language": "Zig",
+    "category": "Systems",
+    "program_type": "Student Grade Management",
+    "filename": "Systems/Zig/253_student_grade_management.zig",
+    "run_cmd": "zig run 253_student_grade_management.zig",
+    "lines": 109
+  },
+  {
+    "id": 254,
+    "language": "Nim",
+    "category": "Systems",
+    "program_type": "Bank Account System",
+    "filename": "Systems/Nim/254_bank_account_system.nim",
+    "run_cmd": "nim c -r 254_bank_account_system.nim",
+    "lines": 109
+  },
+  {
+    "id": 255,
+    "language": "D",
+    "category": "Systems",
+    "program_type": "Library Management Mockup",
+    "filename": "Systems/D/255_library_management_mockup.d",
+    "run_cmd": "dmd -run 255_library_management_mockup.d",
+    "lines": 109
+  },
+  {
+    "id": 256,
+    "language": "V",
+    "category": "Systems",
+    "program_type": "CLI Calculator",
+    "filename": "Systems/V/256_cli_calculator.v",
+    "run_cmd": "v run 256_cli_calculator.v",
+    "lines": 109
+  },
+  {
+    "id": 257,
+    "language": "Ada",
+    "category": "Systems",
+    "program_type": "TODO Manager",
+    "filename": "Systems/Ada/257_todo_manager.adb",
+    "run_cmd": "gnatmake 257_todo_manager.adb && ./257_todo_manager",
+    "lines": 109
+  },
+  {
+    "id": 258,
+    "language": "Fortran",
+    "category": "Systems",
+    "program_type": "File Processor",
+    "filename": "Systems/Fortran/258_file_processor.f90",
+    "run_cmd": "gfortran 258_file_processor.f90 -o 258_file_processor && ./258_file_processor",
+    "lines": 109
+  },
+  {
+    "id": 259,
+    "language": "Cobol",
+    "category": "Systems",
+    "program_type": "Web Server or API Stub",
+    "filename": "Systems/Cobol/259_web_server_or_api_stub.cbl",
+    "run_cmd": "cobc -x 259_web_server_or_api_stub.cbl && ./259_web_server_or_api_stub",
+    "lines": 109
+  },
+  {
+    "id": 260,
+    "language": "Pascal",
+    "category": "Systems",
+    "program_type": "Number Guessing Game",
+    "filename": "Systems/Pascal/260_number_guessing_game.pas",
+    "run_cmd": "fpc 260_number_guessing_game.pas && ./260_number_guessing_game",
+    "lines": 109
+  },
+  {
+    "id": 261,
+    "language": "R",
+    "category": "Data_Science",
+    "program_type": "Data Analyzer / Sorter",
+    "filename": "Data_Science/R/261_data_analyzer___sorter.R",
+    "run_cmd": "Rscript 261_data_analyzer___sorter.R",
+    "lines": 109
+  },
+  {
+    "id": 262,
+    "language": "Julia",
+    "category": "Data_Science",
+    "program_type": "Unit Converter",
+    "filename": "Data_Science/Julia/262_unit_converter.jl",
+    "run_cmd": "julia 262_unit_converter.jl",
+    "lines": 109
+  },
+  {
+    "id": 263,
+    "language": "Matlab",
+    "category": "Data_Science",
+    "program_type": "Text Parser / Formatter",
+    "filename": "Data_Science/Matlab/263_text_parser___formatter.m",
+    "run_cmd": "matlab -batch \"run('263_text_parser___formatter.m')\"",
+    "lines": 109
+  },
+  {
+    "id": 264,
+    "language": "SAS",
+    "category": "Data_Science",
+    "program_type": "Simple Encryption/Decryption",
+    "filename": "Data_Science/SAS/264_simple_encryption_decryption.sas",
+    "run_cmd": "sas 264_simple_encryption_decryption.sas",
+    "lines": 109
+  },
+  {
+    "id": 265,
+    "language": "SQL",
+    "category": "Data_Science",
+    "program_type": "Pathfinding Algorithm (e.g. Dijkstra)",
+    "filename": "Data_Science/SQL/265_pathfinding_algorithm_(e.g._dijkstra).sql",
+    "run_cmd": "# SQL script",
+    "lines": 109
+  },
+  {
+    "id": 266,
+    "language": "Perl",
+    "category": "Scripting",
+    "program_type": "Matrix Multiplication",
+    "filename": "Scripting/Perl/266_matrix_multiplication.pl",
+    "run_cmd": "perl 266_matrix_multiplication.pl",
+    "lines": 109
+  },
+  {
+    "id": 267,
+    "language": "Lua",
+    "category": "Scripting",
+    "program_type": "Inventory System",
+    "filename": "Scripting/Lua/267_inventory_system.lua",
+    "run_cmd": "lua 267_inventory_system.lua",
+    "lines": 109
+  },
+  {
+    "id": 268,
+    "language": "Shell",
+    "category": "Scripting",
+    "program_type": "Student Grade Management",
+    "filename": "Scripting/Shell/268_student_grade_management.sh",
+    "run_cmd": "bash 268_student_grade_management.sh",
+    "lines": 109
+  },
+  {
+    "id": 269,
+    "language": "PowerShell",
+    "category": "Scripting",
+    "program_type": "Bank Account System",
+    "filename": "Scripting/PowerShell/269_bank_account_system.ps1",
+    "run_cmd": "powershell -ExecutionPolicy Bypass -File 269_bank_account_system.ps1",
+    "lines": 109
+  },
+  {
+    "id": 270,
+    "language": "Batch",
+    "category": "Scripting",
+    "program_type": "Library Management Mockup",
+    "filename": "Scripting/Batch/270_library_management_mockup.bat",
+    "run_cmd": "270_library_management_mockup.bat",
+    "lines": 109
+  },
+  {
+    "id": 271,
+    "language": "Tcl",
+    "category": "Scripting",
+    "program_type": "CLI Calculator",
+    "filename": "Scripting/Tcl/271_cli_calculator.tcl",
+    "run_cmd": "tclsh 271_cli_calculator.tcl",
+    "lines": 109
+  },
+  {
+    "id": 272,
+    "language": "VBScript",
+    "category": "Scripting",
+    "program_type": "TODO Manager",
+    "filename": "Scripting/VBScript/272_todo_manager.vbs",
+    "run_cmd": "cscript 272_todo_manager.vbs",
+    "lines": 109
+  },
+  {
+    "id": 273,
+    "language": "Groovy",
+    "category": "Scripting",
+    "program_type": "File Processor",
+    "filename": "Scripting/Groovy/273_file_processor.groovy",
+    "run_cmd": "groovy 273_file_processor.groovy",
+    "lines": 109
+  },
+  {
+    "id": 274,
+    "language": "CoffeeScript",
+    "category": "Scripting",
+    "program_type": "Web Server or API Stub",
+    "filename": "Scripting/CoffeeScript/274_web_server_or_api_stub.coffee",
+    "run_cmd": "coffee 274_web_server_or_api_stub.coffee",
+    "lines": 109
+  },
+  {
+    "id": 275,
+    "language": "Haskell",
+    "category": "Functional",
+    "program_type": "Number Guessing Game",
+    "filename": "Functional/Haskell/275_number_guessing_game.hs",
+    "run_cmd": "runhaskell 275_number_guessing_game.hs",
+    "lines": 109
+  },
+  {
+    "id": 276,
+    "language": "Scala",
+    "category": "Functional",
+    "program_type": "Data Analyzer / Sorter",
+    "filename": "Functional/Scala/276_data_analyzer___sorter.scala",
+    "run_cmd": "scala 276_data_analyzer___sorter.scala",
+    "lines": 109
+  },
+  {
+    "id": 277,
+    "language": "Elixir",
+    "category": "Functional",
+    "program_type": "Unit Converter",
+    "filename": "Functional/Elixir/277_unit_converter.exs",
+    "run_cmd": "elixir 277_unit_converter.exs",
+    "lines": 109
+  },
+  {
+    "id": 278,
+    "language": "Clojure",
+    "category": "Functional",
+    "program_type": "Text Parser / Formatter",
+    "filename": "Functional/Clojure/278_text_parser___formatter.clj",
+    "run_cmd": "clojure 278_text_parser___formatter.clj",
+    "lines": 109
+  },
+  {
+    "id": 279,
+    "language": "F#",
+    "category": "Functional",
+    "program_type": "Simple Encryption/Decryption",
+    "filename": "Functional/F#/279_simple_encryption_decryption.fsx",
+    "run_cmd": "dotnet fsi 279_simple_encryption_decryption.fsx",
+    "lines": 109
+  },
+  {
+    "id": 280,
+    "language": "OCaml",
+    "category": "Functional",
+    "program_type": "Pathfinding Algorithm (e.g. Dijkstra)",
+    "filename": "Functional/OCaml/280_pathfinding_algorithm_(e.g._dijkstra).ml",
+    "run_cmd": "ocaml 280_pathfinding_algorithm_(e.g._dijkstra).ml",
+    "lines": 109
+  },
+  {
+    "id": 281,
+    "language": "Scheme",
+    "category": "Functional",
+    "program_type": "Matrix Multiplication",
+    "filename": "Functional/Scheme/281_matrix_multiplication.scm",
+    "run_cmd": "scheme < 281_matrix_multiplication.scm",
+    "lines": 109
+  },
+  {
+    "id": 282,
+    "language": "Erlang",
+    "category": "Functional",
+    "program_type": "Inventory System",
+    "filename": "Functional/Erlang/282_inventory_system.erl",
+    "run_cmd": "escript 282_inventory_system.erl",
+    "lines": 109
+  },
+  {
+    "id": 283,
+    "language": "Racket",
+    "category": "Functional",
+    "program_type": "Student Grade Management",
+    "filename": "Functional/Racket/283_student_grade_management.rkt",
+    "run_cmd": "racket 283_student_grade_management.rkt",
+    "lines": 109
+  },
+  {
+    "id": 284,
+    "language": "Common Lisp",
+    "category": "Functional",
+    "program_type": "Bank Account System",
+    "filename": "Functional/Common Lisp/284_bank_account_system.lisp",
+    "run_cmd": "sbcl --script 284_bank_account_system.lisp",
+    "lines": 109
+  },
+  {
+    "id": 285,
+    "language": "Verilog",
+    "category": "Hardware",
+    "program_type": "Library Management Mockup",
+    "filename": "Hardware/Verilog/285_library_management_mockup.v",
+    "run_cmd": "iverilog -o 285_library_management_mockup 285_library_management_mockup.v && vvp 285_library_management_mockup",
+    "lines": 109
+  },
+  {
+    "id": 286,
+    "language": "VHDL",
+    "category": "Hardware",
+    "program_type": "CLI Calculator",
+    "filename": "Hardware/VHDL/286_cli_calculator.vhd",
+    "run_cmd": "ghdl -a 286_cli_calculator.vhd && ghdl -e 286_cli_calculator && ghdl -r 286_cli_calculator",
+    "lines": 109
+  },
+  {
+    "id": 287,
+    "language": "Haxe",
+    "category": "Other",
+    "program_type": "TODO Manager",
+    "filename": "Other/Haxe/287_todo_manager.hx",
+    "run_cmd": "haxe -main 287_todo_manager --interp",
+    "lines": 109
+  },
+  {
+    "id": 288,
+    "language": "Smalltalk",
+    "category": "Other",
+    "program_type": "File Processor",
+    "filename": "Other/Smalltalk/288_file_processor.st",
+    "run_cmd": "gst 288_file_processor.st",
+    "lines": 109
+  },
+  {
+    "id": 289,
+    "language": "Forth",
+    "category": "Other",
+    "program_type": "Web Server or API Stub",
+    "filename": "Other/Forth/289_web_server_or_api_stub.fs",
+    "run_cmd": "gforth 289_web_server_or_api_stub.fs -e bye",
+    "lines": 109
+  },
+  {
+    "id": 290,
+    "language": "Prolog",
+    "category": "Other",
+    "program_type": "Number Guessing Game",
+    "filename": "Other/Prolog/290_number_guessing_game.pl",
+    "run_cmd": "swipl -s 290_number_guessing_game.pl",
+    "lines": 109
+  },
+  {
+    "id": 291,
+    "language": "JavaScript",
+    "category": "Web",
+    "program_type": "Data Analyzer / Sorter",
+    "filename": "Web/JavaScript/291_data_analyzer___sorter.js",
+    "run_cmd": "node 291_data_analyzer___sorter.js",
+    "lines": 109
+  },
+  {
+    "id": 292,
+    "language": "TypeScript",
+    "category": "Web",
+    "program_type": "Unit Converter",
+    "filename": "Web/TypeScript/292_unit_converter.ts",
+    "run_cmd": "npx ts-node 292_unit_converter.ts",
+    "lines": 109
+  },
+  {
+    "id": 293,
+    "language": "HTML",
+    "category": "Web",
+    "program_type": "Text Parser / Formatter",
+    "filename": "Web/HTML/293_text_parser___formatter.html",
+    "run_cmd": "# Open in browser",
+    "lines": 109
+  },
+  {
+    "id": 294,
+    "language": "CSS",
+    "category": "Web",
+    "program_type": "Simple Encryption/Decryption",
+    "filename": "Web/CSS/294_simple_encryption_decryption.css",
+    "run_cmd": "# Styling file",
+    "lines": 109
+  },
+  {
+    "id": 295,
+    "language": "PHP",
+    "category": "Web",
+    "program_type": "Pathfinding Algorithm (e.g. Dijkstra)",
+    "filename": "Web/PHP/295_pathfinding_algorithm_(e.g._dijkstra).php",
+    "run_cmd": "php 295_pathfinding_algorithm_(e.g._dijkstra).php",
+    "lines": 109
+  },
+  {
+    "id": 296,
+    "language": "XML",
+    "category": "Web",
+    "program_type": "Matrix Multiplication",
+    "filename": "Web/XML/296_matrix_multiplication.xml",
+    "run_cmd": "# Data file",
+    "lines": 109
+  },
+  {
+    "id": 297,
+    "language": "JSON",
+    "category": "Web",
+    "program_type": "Inventory System",
+    "filename": "Web/JSON/297_inventory_system.json",
+    "run_cmd": "# Data file",
+    "lines": 109
+  },
+  {
+    "id": 298,
+    "language": "YAML",
+    "category": "Web",
+    "program_type": "Student Grade Management",
+    "filename": "Web/YAML/298_student_grade_management.yaml",
+    "run_cmd": "# Data file",
+    "lines": 109
+  },
+  {
+    "id": 299,
+    "language": "Python",
+    "category": "Mainstream",
+    "program_type": "Bank Account System",
+    "filename": "Mainstream/Python/299_bank_account_system.py",
+    "run_cmd": "python 299_bank_account_system.py",
+    "lines": 109
+  },
+  {
+    "id": 300,
+    "language": "Java",
+    "category": "Mainstream",
+    "program_type": "Library Management Mockup",
+    "filename": "Mainstream/Java/300_library_management_mockup.java",
+    "run_cmd": "javac 300_library_management_mockup.java && java 300_library_management_mockup",
+    "lines": 109
+  }
+]
